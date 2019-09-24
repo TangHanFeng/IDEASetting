@@ -1,0 +1,9 @@
+<templateSet group="plain">
+  <template name="zd" value="// &lt;editor-fold desc=&quot;$START$&quot;&gt; &#10;$CONTENT$&#10;// &lt;/editor-fold&gt;" shortcut="ENTER" description="代码折叠" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
