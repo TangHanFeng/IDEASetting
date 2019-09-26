@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="安卓清理并编译">
+      <action id="CleanGradleProject" />
+      <action id="CompileDirty" />
+      <action id="CompileDirty" />
+    </macro>
+  </component>
+</application>
