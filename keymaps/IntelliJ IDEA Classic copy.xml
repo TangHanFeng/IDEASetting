@@ -1,5 +1,9 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="Macro.web编译并刷新">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.安卓清理并编译">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="SaveAll" />
 </keymap>

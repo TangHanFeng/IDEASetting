@@ -5,5 +5,11 @@
       <action id="CompileDirty" />
       <action id="CompileDirty" />
     </macro>
+    <macro name="web编译并刷新">
+      <action id="CompileDirty" />
+      <action id="CompileDirty" />
+      <action id="UpdateRunningApplication" />
+      <action id="UpdateRunningApplication" />
+    </macro>
   </component>
 </application>
