@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="wav" type="Native" />
       <mapping pattern="渠道之间的服务包" type="PLAIN_TEXT" />
       <mapping pattern="渠道转接平台业务核心包" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
