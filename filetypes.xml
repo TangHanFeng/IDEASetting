@@ -7,6 +7,8 @@
       <mapping pattern="渠道之间的服务包" type="PLAIN_TEXT" />
       <mapping pattern="渠道转接平台业务核心包" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
